@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aurora/dev_turtle/install/turtle_control/lib/python3.10/site-packages",
+        "/home/aurora/dev_turtle/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/aurora/dev_turtle/install/turtle_control/lib/python3.10/site-packages",
+        "/home/aurora/dev_turtle/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

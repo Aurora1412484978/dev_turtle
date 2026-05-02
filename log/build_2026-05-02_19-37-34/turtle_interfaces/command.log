@@ -1,0 +1,6 @@
+Invoking command in '/home/aurora/dev_turtle/build/turtle_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aurora/dev_turtle/src/turtle_interfaces -DCMAKE_INSTALL_PREFIX=/home/aurora/dev_turtle/install/turtle_interfaces
+Invoked command in '/home/aurora/dev_turtle/build/turtle_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aurora/dev_turtle/src/turtle_interfaces -DCMAKE_INSTALL_PREFIX=/home/aurora/dev_turtle/install/turtle_interfaces
+Invoking command in '/home/aurora/dev_turtle/build/turtle_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aurora/dev_turtle/build/turtle_interfaces -- -j32 -l32
+Invoked command in '/home/aurora/dev_turtle/build/turtle_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aurora/dev_turtle/build/turtle_interfaces -- -j32 -l32
+Invoking command in '/home/aurora/dev_turtle/build/turtle_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aurora/dev_turtle/build/turtle_interfaces
+Invoked command in '/home/aurora/dev_turtle/build/turtle_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aurora/dev_turtle/build/turtle_interfaces

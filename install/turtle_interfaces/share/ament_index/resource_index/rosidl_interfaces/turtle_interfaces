@@ -1,0 +1,4 @@
+srv/SwitchMode.idl
+srv/SwitchMode.srv
+srv/SwitchMode_Request.msg
+srv/SwitchMode_Response.msg

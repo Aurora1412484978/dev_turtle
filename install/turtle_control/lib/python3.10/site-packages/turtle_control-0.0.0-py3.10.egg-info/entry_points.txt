@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_controller = turtle_control.turtle_controller:main
+turtle_teleop = turtle_control.turtle_teleop:main
+

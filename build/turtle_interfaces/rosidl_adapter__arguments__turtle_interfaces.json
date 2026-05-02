@@ -1,0 +1,6 @@
+{
+  "package_name": "turtle_interfaces",
+  "non_idl_tuples": [
+    "/home/aurora/dev_turtle/src/turtle_interfaces:srv/SwitchMode.srv"
+  ]
+}
