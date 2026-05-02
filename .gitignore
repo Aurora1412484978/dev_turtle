@@ -1,0 +1,18 @@
+# 忽略 ROS 2 编译生成的文件夹
+build/
+install/
+log/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略 C++ 编译产生的缓存
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+
+# 忽略隐藏的 IDE 配置文件
+.vscode/
+.idea/
+.DS_Store

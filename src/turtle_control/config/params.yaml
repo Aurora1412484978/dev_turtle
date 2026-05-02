@@ -1,0 +1,5 @@
+/turtle_controller:
+  ros__parameters:
+    linear_vel: 2.0        # 默认线速度
+    angular_vel: 1.5       # 转向时的角速度
+    boundary_limit: 1.5    # 触发掉头转向的边界距离 (1.5 到 9.5 之间)
